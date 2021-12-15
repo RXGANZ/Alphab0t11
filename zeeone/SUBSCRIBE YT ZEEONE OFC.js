@@ -1,6 +1,6 @@
 /*
-Support channel ZEEONE OFC
+Support channel RXGZ TK
 
 
-Yang jual sc ini anak haram
+Yang jual scprit dosa
 */
