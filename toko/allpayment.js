@@ -1,31 +1,29 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY RXGZSTORE
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ PC OWNER
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ PC OWNER
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ PC OWNER
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ PC OWNER
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ PC OWNER
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ PC OWNER
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ PC OWNER
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama RXGZ
 
-*📲 PULSA*
 
-Tidak tersedia
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
